@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlossomUb
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL and Python
+- 👀 I’m interested in Data Analysis, Learning everything I can about Data
+- 🌱 ’m currently working on building my data analytics & engineering skills
 - 💞️ I’m looking to collaborate on SQL and Python projects
 - 📫 How to reach me ubochiblossom@gmail.com
 
